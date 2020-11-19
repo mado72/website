@@ -1,4 +1,4 @@
 ---
-title: "Release notes and version skew"
+title: "Notas de lançamento e desvio de versão"
 weight: 10
 ---
